@@ -1,0 +1,76 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+
+	background-image: url("../images/bupe.jpg");
+}
+
+body form h4 {
+
+	color: ivory;
+    text-align: center;
+	outline: none;
+	padding: 40px;
+}
+body div.container{
+
+    width: 900px;
+	align-items: center;
+}
+
+body div.container h4 {
+
+	color: ivory;
+
+}
+
+body form table.table.table-striped {
+
+	padding: 20px;
+	width: 800px;
+	text-align:center;
+	vertical-align: middle;
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+body form table.table.table-striped tbody tr td button.btn.btn-success.mb-3{
+
+	width: 5px;
+	padding: 15px;
+	margin-left:auto;
+	margin-right: auto;
+}
+
+h4 {
+
+    text-align: center;
+	outline: none;
+	padding: 40px;
+}
+
+input[type="text"], input[type="password"] {
+
+	outline: none;
+	padding: 20px;
+	display: block;
+	width: 300px;
+	height: 30px;
+	border-radius: 3px;
+	border: 1px solid #eee;
+	margin: 20px auto;
+}
+
+button[type="submit"] {
+
+	width: 300px;
+	border-radius: 3px;
+	margin: 20px auto; 
+}
+
+
